@@ -7,6 +7,6 @@ c=2
 # Assign 8 (int value) to 'd' variable;
 d=8
 # Find the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin10' to variable 'k';
-k=2(a*b-c*d)
+k=2*(a*b-c*d)
 # # Print the variable 'k'.
 print(k)
